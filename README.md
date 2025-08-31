@@ -27,4 +27,5 @@ The dashboard was built using the following tools and technologies:
       III) Highlight key characteristics of top-performing and underperforming customer groups.
       IV) Enables targeted marketing, loyalty intiatives, and operational improvements based on data insights.
 
-6. Screenshot: 
+6. Screenshot:
+   The screenshot look likes: https://github.com/vaishnaviwkr07-maker/Customer-Segmentation-And-Profitability-Analytics/blob/main/Customer%20Segmentation%20And%20Profitability%20Analytics.png
