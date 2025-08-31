@@ -13,7 +13,7 @@ The dashboard was built using the following tools and technologies:
 
 3. Data Source: Flat Files (.csv)
 
-4. Features/ Highlight
+4. Features/ Highlight:
    A) Business  Problems:
       I) Who are most profitable customers by region and segment? 
       II) What is the return rate per customer or segment?
